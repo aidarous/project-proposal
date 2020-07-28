@@ -9,7 +9,7 @@ Choose a basketball player archetype and score against your defender. Player mus
 * Creating conditions that allow a player progress each round
 * A proper visual display in html/css
 ### Wireframe
-![](./project-proposal-mod1/wireframe.jpg)
+![alt-text](./project-proposal-mod1/wireframe.jpg)
 
 
 ### Additional Features 
@@ -19,3 +19,4 @@ Choose a basketball player archetype and score against your defender. Player mus
 Approval - Wednesday: setup classes and player archetypes
 Thursday - Saturday: develop conditions to score
 Sunday - Monday: Work on HTML/CSS
+
